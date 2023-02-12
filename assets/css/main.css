@@ -2540,7 +2540,7 @@ button:active,
 		padding: 0 2em 0 2em;
 	}
 
-	.skills-wrapper-container {
+	#skills-wrapper-container {
 		padding: 0 2em 0 2em;
 		display: flex;
 		justify-content: center;
