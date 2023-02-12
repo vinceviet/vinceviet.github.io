@@ -2773,17 +2773,18 @@ button:active,
 
 }
 
-#skills-wrapper-container {
+/* #skills-wrapper-container {
 	padding: 0 2em 0 2em;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-}
+} */
 
 #skills {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	padding: 0 2em 0 2em;
 }
 
 #skills-container {
@@ -2795,10 +2796,11 @@ button:active,
 	width: 60%;
 	height: 350px;
 	border-radius: 12px;
+	gap: 10px;
 }
 
 #skills-icons {
-	font-size: 50px;
+	font-size: 65px;
 }
 
 #contact-info {
