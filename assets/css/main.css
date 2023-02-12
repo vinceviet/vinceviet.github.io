@@ -2781,7 +2781,6 @@ button:active,
 }
 
 #skills-container {
-	display: initial;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -2791,7 +2790,7 @@ button:active,
 	border-radius: 12px;
 }
 
-#skills-container>* {
+#skills-icons {
 	width: 100px;
 	height: 100px;
 }
