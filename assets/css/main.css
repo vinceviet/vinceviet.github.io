@@ -2830,3 +2830,9 @@ button:active,
 	flex-direction: column;
 	height: 500px;
 }
+
+#skills-side-icon{
+	color: #41484c;
+	width: 22.66px;
+	height: 31.73px;
+}
