@@ -2825,7 +2825,6 @@ button:active,
 	gap: 20px;
 }
 
-#profile-container{
-	display: flex;
-	flex-direction: column;
+#top{
+	height: 400px;
 }
