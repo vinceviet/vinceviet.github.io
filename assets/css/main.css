@@ -2811,5 +2811,14 @@ button:active,
 #profile-pic {
 	height: 350px;
 	width: auto;
-	border-radius: 12px;
+	border-radius: 22px;
+}
+
+#projects-container {
+	display: flex;
+	flex-direction: column;
+}
+
+#project-cards{
+	display: flex;
 }
