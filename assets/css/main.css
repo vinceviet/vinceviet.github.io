@@ -2797,7 +2797,8 @@ button:active,
 	width: 50%;
 	height: 350px;
 	border-radius: 12px;
-	gap: 10px;
+	gap: 20px;
+	padding: 10px;
 }
 
 #skills-icons {
