@@ -2540,13 +2540,6 @@ button:active,
 		padding: 0 2em 0 2em;
 	}
 
-	#skills-wrapper-container {
-		padding: 0 2em 0 2em;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
-
 	/* Item */
 
 	.item {
@@ -2780,6 +2773,13 @@ button:active,
 
 }
 
+#skills-wrapper-container {
+	padding: 0 2em 0 2em;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 #skills {
 	display: flex;
 	justify-content: center;
@@ -2788,11 +2788,12 @@ button:active,
 
 #skills-container {
 	display: flex;
+	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
 	border: 1px solid black;
-	width: 50%;
-	height: 300px;
+	width: 60%;
+	height: 350px;
 	border-radius: 12px;
 }
 
