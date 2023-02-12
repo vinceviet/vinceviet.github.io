@@ -2780,6 +2780,12 @@ button:active,
 
 }
 
+#skills {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 #skills-container {
 	display: flex;
 	justify-content: center;
@@ -2791,8 +2797,7 @@ button:active,
 }
 
 #skills-icons {
-	width: 100px;
-	height: 100px;
+	font-size: 50px;
 }
 
 #contact-info {
