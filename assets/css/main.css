@@ -2828,7 +2828,7 @@ button:active,
 #top{
 	display: flex;
 	flex-direction: column;
-	height: 550px;
+	height: 600px;
 }
 
 #skills-side-icon{
