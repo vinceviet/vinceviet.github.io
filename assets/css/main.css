@@ -2774,6 +2774,7 @@ button:active,
 	}
 
 }
+
 #skills {
 	display: flex;
 	flex-direction: column;
@@ -2807,7 +2808,8 @@ button:active,
 	justify-content: center;
 }
 
-#profile-pic{
+#profile-pic {
 	height: 350px;
 	width: auto;
+	border-radius: 12px;
 }
