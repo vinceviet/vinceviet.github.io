@@ -1878,13 +1878,13 @@ article:last-child {
 	width: 48px;
 	height: 48px;
 	background: #f00;
-	object-fit: contain;
-	border-radius: 12px;
 }
 
 .image.avatar48 img {
 	width: 48px;
 	height: 48px;
+	object-fit: contain;
+	border-radius: 22px;
 }
 
 .image.fit {
