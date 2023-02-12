@@ -1878,7 +1878,8 @@ article:last-child {
 	width: 48px;
 	height: 48px;
 	background: #f00;
-	object-fit: cover;
+	object-fit: contain;
+	border-radius: 12px;
 }
 
 .image.avatar48 img {
@@ -2807,6 +2808,6 @@ button:active,
 }
 
 #profile-pic{
-	height: 300px;
+	height: 350px;
 	width: auto;
 }
