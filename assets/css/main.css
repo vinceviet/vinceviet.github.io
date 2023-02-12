@@ -2780,7 +2780,7 @@ button:active,
 
 }
 
-.skills-container {
+#skills-container {
 	display: initial;
 	display: flex;
 	justify-content: center;
@@ -2791,12 +2791,12 @@ button:active,
 	border-radius: 12px;
 }
 
-.skills-container>* {
+#skills-container>* {
 	width: 100px;
 	height: 100px;
 }
 
-.contact-info {
+#contact-info {
 	display: initial;
 	display: flex;
 	flex-direction: column;
