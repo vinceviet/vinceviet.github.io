@@ -1877,14 +1877,13 @@ article:last-child {
 .image.avatar48 {
 	width: 48px;
 	height: 48px;
-	background: #f00;
 }
 
 .image.avatar48 img {
 	width: 48px;
 	height: 48px;
 	object-fit: contain;
-	border-radius: 22px;
+	border-radius: 50%;
 }
 
 .image.fit {
@@ -2811,7 +2810,7 @@ button:active,
 #profile-pic {
 	height: 350px;
 	width: auto;
-	border-radius: 22px;
+	border-radius: 48px;
 }
 
 #projects-container {
@@ -2821,4 +2820,5 @@ button:active,
 
 #project-cards{
 	display: flex;
+	gap: 20px;
 }
