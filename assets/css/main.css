@@ -1878,6 +1878,7 @@ article:last-child {
 	width: 48px;
 	height: 48px;
 	background: #f00;
+	object-fit: cover;
 }
 
 .image.avatar48 img {
@@ -2772,14 +2773,6 @@ button:active,
 	}
 
 }
-
-/* #skills-wrapper-container {
-	padding: 0 2em 0 2em;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-} */
-
 #skills {
 	display: flex;
 	flex-direction: column;
@@ -2811,4 +2804,9 @@ button:active,
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
+}
+
+#profile-pic{
+	height: 300px;
+	width: auto;
 }
