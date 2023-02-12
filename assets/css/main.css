@@ -2405,6 +2405,12 @@ input, select, textarea {
 			.container {
 				padding: 0 2em 0 2em;
 			}
+			.skills-wrapper-container {
+				padding: 0 2em 0 2em;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
 
 		/* Item */
 
@@ -2638,9 +2644,12 @@ input, select, textarea {
 
 	.skills-container{
 		display: flex;
+		justify-content: center;
+		align-items: center;
 		border: 1px solid black;
 		width: 50%;
 		height: 300px;
+		border-radius: 12px;
 	}
 
 	.skills-container>i {
