@@ -2800,6 +2800,10 @@ button:active,
 	font-size: 65px;
 }
 
+#skills-link {
+	justify-content: left;
+}
+
 #contact-info {
 	display: initial;
 	display: flex;
